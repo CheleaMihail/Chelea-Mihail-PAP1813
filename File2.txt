@@ -1,3 +1,0 @@
-
-Fisierul dat cintine un set de numere impare:
-|1 3 5 7 9 11 13 15 17
